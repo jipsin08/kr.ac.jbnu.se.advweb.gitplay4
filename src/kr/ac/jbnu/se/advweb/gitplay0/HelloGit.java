@@ -13,6 +13,7 @@ public class HelloGit {
 		{
 			System.out.println("i:" + i);
 		}
+		//
 		
 		// I added the following part.
 		System.out.println("This is a confliction test.");
