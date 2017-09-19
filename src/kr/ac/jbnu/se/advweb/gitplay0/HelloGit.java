@@ -1,6 +1,6 @@
 package kr.ac.jbnu.se.advweb.gitplay0;
 
-// 201211219 SoftwareEngineering ParkYeonHo   
+// Park Yeon Ho 
 public class HelloGit {
 
 	public static void main(String[] args) {
