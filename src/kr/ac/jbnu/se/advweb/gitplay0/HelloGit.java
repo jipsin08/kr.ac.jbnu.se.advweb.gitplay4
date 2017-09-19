@@ -1,6 +1,7 @@
 package kr.ac.jbnu.se.advweb.gitplay0;
 
 // 201211219 소프트웨어공학과 박연호
+// gihub
 public class HelloGit {
 
 	public static void main(String[] args) {
