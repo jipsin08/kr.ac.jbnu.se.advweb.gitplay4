@@ -1,5 +1,6 @@
 package kr.ac.jbnu.se.advweb.gitplay0;
 
+// 201211219 software 박연호
 public class HelloGit {
 
 	public static void main(String[] args) {
@@ -13,7 +14,7 @@ public class HelloGit {
 		{
 			System.out.println("i:" + i);
 		}
-		//
+		
 		
 		// I added the following part.
 		System.out.println("This is a confliction test.");
